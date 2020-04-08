@@ -66,7 +66,6 @@ explore: orders {
 
 explore: products {}
 
-explore: schema_migrations {}
 
 explore: user_data {
   join: users {
@@ -77,5 +76,3 @@ explore: user_data {
 }
 
 explore: users {}
-
-explore: xin_test_for_bug2 {}
