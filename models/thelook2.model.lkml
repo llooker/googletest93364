@@ -10,8 +10,6 @@ datagroup: thelook2_default_datagroup {
 
 persist_with: thelook2_default_datagroup
 
-explore: connection_reg_r3 {}
-
 explore: events {
   join: users {
     type: left_outer
