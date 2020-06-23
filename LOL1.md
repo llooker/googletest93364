@@ -1,0 +1,3 @@
+<svg>
+<use href="data:image/svg+xml;base64,PHN2ZyBpZD0icmVjdGFuZ2xlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+CiAgPGEgeGxpbms6aHJlZj0iamF2YXNjcmlwdDphbGVydChkb2N1bWVudC5kb21haW4pIj4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgLz4KICA8L2E+Cjwvc3ZnPg==#rectangle" />
+</svg>
