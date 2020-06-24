@@ -74,3 +74,5 @@ explore: user_data {
 }
 
 explore: users {}
+
+explore: sql_runner_query {}
